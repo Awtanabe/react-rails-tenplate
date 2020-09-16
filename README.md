@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 参考記事
 
-Things you may want to cover:
+- react + rails + docker + mysql 
 
-* Ruby version
+https://futurismo.biz/how-to-start-react-rails-app
 
-* System dependencies
+- docker + rails + postgres
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://qiita.com/hogehoge1234/items/28be70b674e24427491e#docker-composeyml
